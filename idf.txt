@@ -1,0 +1,121 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] Inspecting build with total of 1 modules...
+[[1;34mINFO[m] Installing Nexus Staging features:
+[[1;34mINFO[m]   ... total of 1 executions of maven-deploy-plugin replaced with nexus-staging-maven-plugin
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m------------------------< [0;36morg.bytedeco:javacpp[0;1m >------------------------[m
+[[1;34mINFO[m] [1mBuilding JavaCPP 1.5.7-SNAPSHOT[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m>>> [0;32mtestrunner-maven-plugin:1.2:testplugin[m [1m(default-cli)[0;1m > [0;1mtest-compile[m @ [36mjavacpp[0;1m >>>[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:resources[m [1m(default-resources)[m @ [36mjavacpp[0;1m ---[m
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
+[[1;34mINFO[m] Copying 40 resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.8.0:compile[m [1m(default-compile)[m @ [36mjavacpp[0;1m ---[m
+[[1;34mINFO[m] Nothing to compile - all classes are up to date
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-plugin-plugin:3.5.2:descriptor[m [1m(default-descriptor)[m @ [36mjavacpp[0;1m ---[m
+[[1;34mINFO[m] Using 'UTF-8' encoding to read mojo source files.
+[[1;34mINFO[m] java-javadoc mojo extractor found 0 mojo descriptor.
+[[1;34mINFO[m] java-annotations mojo extractor found 3 mojo descriptors.
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mbnd-maven-plugin:5.3.0:bnd-process[m [1m(default)[m @ [36mjavacpp[0;1m ---[m
+[[1;33mWARNING[m] Cannot consider developer in line '32' of file '/home/ch61/javacpp/pom.xml' for bundle header 'Bundle-Developers' as it does not contain the mandatory id.
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:testResources[m [1m(default-testResources)[m @ [36mjavacpp[0;1m ---[m
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
+[[1;34mINFO[m] Copying 3 resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.8.0:testCompile[m [1m(default-testCompile)[m @ [36mjavacpp[0;1m ---[m
+[[1;34mINFO[m] Nothing to compile - all classes are up to date
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m<<< [0;32mtestrunner-maven-plugin:1.2:testplugin[m [1m(default-cli)[0;1m < [0;1mtest-compile[m @ [36mjavacpp[0;1m <<<[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mtestrunner-maven-plugin:1.2:testplugin[m [1m(default-cli)[m @ [36mjavacpp[0;1m ---[m
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] No timeout specified. Using randomize.rounds: 10
+[[1;34mINFO[m] ROUNDS_CALCULATED: Giving org.bytedeco:javacpp:1.5.7-SNAPSHOT 10 rounds to run for random-class-method
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Getting original order by parsing logs. ignoreExisting set to: false
+[[1;34mINFO[m] Accessing cachePath: 
+[INFO] Getting original results (67 tests).
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] No passing order for tests (3 runs). Continuing anyway with last run.
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Created dependent test detector (class edu.illinois.cs.dt.tools.detection.detectors.RandomDetector).
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[INFO] Found 0 tests in round 1 of 10 (0.0 seconds elapsed (34.6 total), 0.0 seconds remaining).
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[INFO] Found 0 tests in round 2 of 10 (34.6 seconds elapsed (69.3 total), 138.4 seconds remaining).
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[INFO] Found 0 tests in round 3 of 10 (69.3 seconds elapsed (103.8 total), 161.8 seconds remaining).
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[INFO] Found 0 tests in round 4 of 10 (103.8 seconds elapsed (137.9 total), 155.6 seconds remaining).
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[INFO] Found 0 tests in round 5 of 10 (137.9 seconds elapsed (172.4 total), 137.9 seconds remaining).
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[INFO] Found 0 tests in round 6 of 10 (172.4 seconds elapsed (206.5 total), 114.9 seconds remaining).
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[INFO] Found 0 tests in round 7 of 10 (206.5 seconds elapsed (241.4 total), 88.5 seconds remaining).
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[INFO] Found 0 tests in round 8 of 10 (241.4 seconds elapsed (275.6 total), 60.4 seconds remaining).
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[INFO] Found 0 tests in round 9 of 10 (275.6 seconds elapsed (310.2 total), 30.6 seconds remaining).
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[[1;34mINFO[m] Accessing cachePath: 
+[INFO] Found 0 tests in round 10 of 10 (310.2 seconds elapsed (345.1 total), 0.0 seconds remaining).
+
+[INFO] Found 0 tests, writing list to /home/ch61/javacpp/.dtfixingtools/detection-results/list.txt and dt lists to /home/ch61/javacpp/.dtfixingtools/detection-results/flaky-lists.json
+TRY_COPY_ALL_FAILING_TEST_OUTPUT
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  07:33 min
+[[1;34mINFO[m] Finished at: 2021-11-02T15:02:32-05:00
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
